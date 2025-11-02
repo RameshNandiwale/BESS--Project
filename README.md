@@ -18,9 +18,9 @@ BESS-Project/
 
 ---
 
-## 🧪 Project Overview
+##  Project Overview
 
-### ✅ Task 1: Operational Fault Detection
+###  Task 1: Operational Fault Detection
 - Data: `BESS_data_task1.csv`
 - Insights:
   - Flat SOC (State of Charge) periods during active current flow
@@ -30,7 +30,7 @@ BESS-Project/
   - Line plots, difference calculations, and logical masking
   - Seaborn & Matplotlib visualizations for current/SOC trends
 
-### ⚠️ Task 2: Warning Analysis (SOC & Voltage Deviation)
+###  Task 2: Warning Analysis (SOC & Voltage Deviation)
 - Data: `BESS_data_task2.csv`
 - Insights:
   - Warning conditions triggered when SOC ≥ 10% and voltage deviation ≥ 50 mV
@@ -43,7 +43,7 @@ BESS-Project/
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 - SOC trend with red markers during flat periods
 - SBMU current limit violations plotted against thresholds
@@ -53,7 +53,7 @@ BESS-Project/
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Python 3.x
 - Jupyter Notebook
@@ -62,7 +62,7 @@ BESS-Project/
 
 ---
 
-## 📌 How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository
 ```bash
@@ -74,7 +74,7 @@ pip install pandas numpy matplotlib seaborn
 3. Launch the notebook
 ```bash
 jupyter notebook notebooks/BESS_Analysis.ipynb
-
+---
 ## Skills demonstrated
 
 Time-series data analysis
